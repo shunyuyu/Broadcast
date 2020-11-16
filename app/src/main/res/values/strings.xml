@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BroadcastBestPractice</string>
+    <string name="app_name">小Q</string>
     <string name="forget_password">忘记密码</string>
     <string name="add_user">用户注册</string>
     <string name="login_user">请输入QQ号</string>
